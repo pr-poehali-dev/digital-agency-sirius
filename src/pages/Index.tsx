@@ -309,7 +309,7 @@ const Index = () => {
           <h3 className="text-2xl font-bold text-black mb-4">СИРИУС</h3>
           <p className="text-gray-600 mb-6">Диджитал агентство полного цикла</p>
           <p className="text-sm text-gray-500">
-            © 2024 Сириус. Все права защищены.
+            © 2025 Диджитал агентство Сириус. Все права защищены.
           </p>
         </div>
       </footer>
